@@ -1,2 +1,3 @@
 using this file for git stash
 added some new content
+edited
